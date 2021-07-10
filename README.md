@@ -6,7 +6,7 @@
 
 ### 🛠 Tecnologias
 
-As seguintes linguagens estão presentes neste repositório:
+As seguintes linguagens de programação estão presentes:
 
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [C](https://en.cppreference.com/w/c/language)
