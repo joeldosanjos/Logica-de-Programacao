@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569082891 source:c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\23.05\ads1\func.c
+	"func.h"
+
+1569082900 c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\23.05\ads1\func.h
+
+1569082886 source:c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\23.05\ads1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1559081376 source:c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\financiamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func1.h"
+
+1569085568 source:c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\financiamento\func1.c
+
+1569085568 source:c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\financiamento\func2.c
+	<string.h>
+
+1559075663 c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\financiamento\func1.h
+
+1559060908 c:\users\joeel\onedrive - fatec centro paula souza\fatec 1º período\algoritmos\financiamento\func2.h
+
+1569085568 source:c:\users\joeel\desktop\c\car finance project\func1.c
+
+1569085568 source:c:\users\joeel\desktop\c\car finance project\func2.c
+	<string.h>
+
